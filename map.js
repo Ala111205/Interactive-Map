@@ -55,7 +55,7 @@ function displayMarkers(data){
             map.setView([data[0].lat, data[0].lng], 13);
         } else {
             const bounds = L.latLngBounds(data.map(loc => [loc.lat, loc.lng]));
-            map.fitBounds(bounds, { padding: [30, 30], maxZoom: 14 });
+            map.fitBounds(bounds, { maxZoom: 14 });
         }
     }
 };
