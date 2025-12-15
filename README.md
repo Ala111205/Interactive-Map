@@ -1,2 +1,7 @@
-# Interactive-Map
-I create this task to User can search the location or by the category to find the location with marker once click above marker it shows the name of the location and category but in this I given the someplace only that are -  Search by Name: Taj Mahal, Cubbon Park, Gateway of India and Category: Monument, Park, Palace, Seaside, Religious, Fort
+# 🗺️ Interactive Map
+A map where users can search locations by name or category, with markers showing the location name and category on click.  
+Sample data includes:  
+**Names** – Taj Mahal, Cubbon Park, Gateway of India  
+**Categories** – Monument, Park, Palace, Seaside, Religious, Fort
+
+**Repository Link** 👉 https://ala111205.github.io/Interactive-Map/
