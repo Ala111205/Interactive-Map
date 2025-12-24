@@ -2,7 +2,7 @@
 
       A modern interactive map application allowing users to explore locations, filter by categories (Park, Monument, Palace, Seaside, Religious, Fort), search places globally, and discover points of interest (POIs) within selected locations — featuring live keyword search, category filters, marker clustering, geolocation, and responsive map interactions.
 
-**Repository Link:**  https://ala111205.github.io/Interactive-Map/
+**Live Demo:**  https://ala111205.github.io/Interactive-Map/
 
 **🚀 Features:**
 
